@@ -33,7 +33,7 @@ print(my_foods[1:3])
 print("My friends favorite foods are: ")
 print(friend_foods[0:2])
 
-friend_foods.append('Mushrooms') #adding different objects to each list to show they are seperate lists
+friend_foods.append('Mushrooms') #adding different objects to each list to show they are separate lists
 my_foods.append('Soups')
 
 print(my_foods)
